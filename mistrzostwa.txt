@@ -1,0 +1,10 @@
+finał Mistrzostw Świata w piłce nożnej.
+
+1. druzyna (id, nazwa, panstwo, sponsor )
+2. pilkarze (id,imie, nazwisko, wiek, ilosc_strzelonych_bramek, nazwa_drużyny, narodowosc, pozycja)
+4. trener (id,imie, nazwisko, wiek, nazwa_drużyny, narodowosc)
+5. rezerwowi (id,imie, nazwisko, wiek, nazwa_drużyny, narodowosc)
+5. sztab(id, specyfikacje, imie, nazwisko, nazwa_druzyny)
+4. stadiony  (id, nazwa, miejsce)
+5. sędziowie (id, imie, nazwisko, id_mecze, id_stadionu)
+6. mecze(id, wynik, data, kto z kim gra, typ_meczu, nazwa_stadionu)
